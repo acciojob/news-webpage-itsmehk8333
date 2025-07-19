@@ -7,7 +7,6 @@ body{
 padding:20px;
 	background-color:#011e29;
 	color:white;
-	text-align:center;
 }
 
 .latest-news-section{
@@ -15,7 +14,6 @@ padding:20px;
 	padding:10px;
 	border:1px solid white;
 	border-radius:10px;
-	width:400px;
 	/* margin:10px ; */
 }
 .mainSection{
@@ -23,7 +21,6 @@ padding:20px;
 	padding:10px;
 	border:1px solid white;
 	border-radius:10px;
-	width:300px
 	/* margin:10px ; */
 }
 .pictorial-news-section{
@@ -31,8 +28,6 @@ padding:20px;
 	padding:10px;
 	border:1px solid white;
 	border-radius:10px;
-	text-align:center;
-	width:600px;
 	/* margin:10px ; */
 }
 main{
@@ -41,3 +36,6 @@ main{
 	justify-content:space-around
 }
 
+header{
+	text-align:center
+}
