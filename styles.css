@@ -23,12 +23,13 @@ padding:20px;
 	border-radius:10px;
 	/* margin:10px ; */
 }
-.pictorial-news-section{
-	background-color:white;
-	padding:10px;
-	border:1px solid white;
-	border-radius:10px;
-	/* margin:10px ; */
+.pictorial-news-section {
+  background-color: white;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  text-align: center;
+  width: 600px;
 }
 main{
 	display:flex;
